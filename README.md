@@ -1,4 +1,4 @@
-## Hi there 
+## Hi there 👋🏻 
 
 Hi, I'm Muhammed Ashik — a certified SOC Analyst and cybersecurity enthusiast with a passion for blue teaming, SIEM tools, network security, vulnerability assessment, penetration testing, and digital defense. This space documents my hands-on journey into the world of SOC operations and information security."
 
