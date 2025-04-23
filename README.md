@@ -56,7 +56,7 @@ Hi, I'm Muhammed Ashik — a certified SOC Analyst and cybersecurity enthusiast 
 
 | *Project*      | *Description*                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| *[Wazuh-Installation-Configuration]([https://github.com/](https://github.com/ashik0x/Wazuh-Installation-Configuration))*    | This project demonstrates the installation and configuration of Wazuh SIEM for real-time monitoring and threat detection on a Windows system.|
+| *[Wazuh-Installation-Configuration](https://github.com/ashik0x/Wazuh-Installation-Configuration)*    | This project demonstrates the installation and configuration of Wazuh SIEM for real-time monitoring and threat detection on a Windows system.|
 | *[Project 2](https://github.com/)*    | Short Description |
 | *[Project 3](https://github.com/)*    | Short Description | 
 
