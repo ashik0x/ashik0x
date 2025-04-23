@@ -56,7 +56,7 @@ Hi, I'm Muhammed Ashik — a certified SOC Analyst and cybersecurity enthusiast 
 
 | *Project*      | *Description*                                                                                  |
 |-------------------|--------------------------------------------------------------------------------------------------|
-| *[Project 1](https://github.com/)*    | Short Description |
+| *[Wazuh-Installation-Configuration](https://github.com/)*    | Short Description |
 | *[Project 2](https://github.com/)*    | Short Description |
 | *[Project 3](https://github.com/)*    | Short Description | 
 
