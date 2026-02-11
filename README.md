@@ -58,6 +58,6 @@ Hi, I'm Muhammed Ashik — a certified SOC Analyst and cybersecurity enthusiast 
 |-------------------|--------------------------------------------------------------------------------------------------|
 | *[Wazuh-Installation-Configuration](https://github.com/ashik0x/Wazuh-Installation-Configuration)*    | This project demonstrates the installation and configuration of Wazuh SIEM for real-time monitoring and threat detection on a Windows system.|
 | *[Enterprise Network Design & Implementation]( https://github.com/ashik0x/ccna-enterprise-network-project)*    | This project builds a real-world enterprise network in Cisco Packet Tracer using a core–access hierarchical design with VLANs, routing, security, and a DMZ. |
-| *[Splunk Installation & Configuration](https://github.com/ashik0x/Splunk-Siem-lab)*    | Step-by-step implementation of a Splunk SIEM lab including installation, configuration, log forwarding, and security event monitoring. | 
+| *[Splunk Deployment & Configuration](https://github.com/ashik0x/Splunk-Siem-lab)*    | Step-by-step implementation of a Splunk SIEM lab including installation, configuration, log forwarding, and security event monitoring. | 
 
 ---
