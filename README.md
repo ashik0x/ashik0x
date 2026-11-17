@@ -7,8 +7,8 @@ Hi, I'm Muhammed Ashik — a certified SOC Analyst and cybersecurity enthusiast 
 <details>
   <summary>More about me</summary>
 
-- *Name*: Muhammed Ashik
-- *From*: India
+- Name: Muhammed Ashik
+- From: India
 - Certified SOC Analyst | Aspiring SOC Analyst  
 - I have foundational knowledge in SOC operations, threat monitoring, incident detection, vulnerability assessment, penetration testing, and social engineering.  
 - Passionate about blue teaming, SIEM tools, network security, digital defense, and learning offensive security techniques.  
